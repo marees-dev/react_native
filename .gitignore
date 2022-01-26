@@ -1,6 +1,3 @@
-/DoneWithIt/node_modules
-/secondApp/node_modules
-
 node_modules/
 .expo/
 dist/
